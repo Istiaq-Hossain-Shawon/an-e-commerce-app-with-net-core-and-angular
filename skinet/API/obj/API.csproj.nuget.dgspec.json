@@ -1,29 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PERSONAL\\3_DOT_NET_LEARNING\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj": {}
+    "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\API.csproj": {}
   },
   "projects": {
-    "E:\\PERSONAL\\3_DOT_NET_LEARNING\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj": {
+    "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PERSONAL\\3_DOT_NET_LEARNING\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj",
+        "projectUniqueName": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\PERSONAL\\3_DOT_NET_LEARNING\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Istiaq.hossain\\.nuget\\packages\\",
-        "outputPath": "E:\\PERSONAL\\3_DOT_NET_LEARNING\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\obj\\",
+        "projectPath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\API.csproj",
+        "packagesPath": "C:\\Users\\Istiaq Hossain\\.nuget\\packages\\",
+        "outputPath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Istiaq.hossain\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Istiaq Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
@@ -42,7 +37,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[5.0.0, )",
+              "version": "[5.0.3, )",
               "noWarn": [
                 "NU1605"
               ]
@@ -85,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.0": {
+      "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.3": {
         "type": "package",
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.7.1"
@@ -561,10 +561,10 @@
     }
   },
   "libraries": {
-    "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.0": {
-      "sha512": "26WlfJsOB4QP3VsEVu5GGDSGm5wu6ikQqRUOaZ3BUmyGcMWsD28xFxPxFw4OszYgKpj54QYlyec19KcrEGkqDw==",
+    "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.3": {
+      "sha512": "yygr4kXCFLD/bektky2San9fy0XYssG77yEEVCEyCcpljgfXdN+gJM0gE8ECocAtAIg1rOoWny+o0L0iULSIfg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.authentication.jwtbearer/5.0.0",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/5.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -572,7 +572,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
         "lib/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
-        "microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.5.0.3.nupkg.sha512",
         "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
@@ -1426,8 +1426,6 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
-        "System.Memory.4.5.3.nupkg.sha512",
-        "System.Memory.nuspec",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netcoreapp2.1/_._",
         "lib/netstandard1.1/System.Memory.dll",
@@ -1435,6 +1433,8 @@
         "lib/netstandard2.0/System.Memory.dll",
         "lib/netstandard2.0/System.Memory.xml",
         "ref/netcoreapp2.1/_._",
+        "system.memory.4.5.3.nupkg.sha512",
+        "system.memory.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
@@ -1505,7 +1505,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.0",
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.3",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 5.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 5.0.0",
@@ -1513,28 +1513,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Istiaq.hossain\\.nuget\\packages\\": {}
+    "C:\\Users\\Istiaq Hossain\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\PERSONAL\\3_DOT_NET_LEARNING\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj",
+      "projectUniqueName": "h:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "e:\\PERSONAL\\3_DOT_NET_LEARNING\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Istiaq.hossain\\.nuget\\packages\\",
-      "outputPath": "e:\\PERSONAL\\3_DOT_NET_LEARNING\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\obj\\",
+      "projectPath": "h:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\Istiaq Hossain\\.nuget\\packages\\",
+      "outputPath": "h:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Istiaq.hossain\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Istiaq Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
@@ -1553,7 +1548,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
-            "version": "[5.0.0, )",
+            "version": "[5.0.3, )",
             "noWarn": [
               "NU1605"
             ]
@@ -1596,7 +1591,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

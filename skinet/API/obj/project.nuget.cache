@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "byoZ52DlfJ848tLlepYRYHV7HMI2EvRz6o16zEwj1DcWVLjlL6F7lvsT0h2vzGMFfBEX50VyQAHWijTEw5Y03w==",
+  "dgSpecHash": "Nv173Y+vK531RTcY2/dRG+LDLkb3QqmRxFAQoFqGw3jlE851YjEClXiZcIFEknuJ2u0riPOxHlL2FYFEQ1qgDg==",
   "success": true,
-  "projectFilePath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\API.csproj",
+  "projectFilePath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Istiaq Hossain\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Istiaq Hossain\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",

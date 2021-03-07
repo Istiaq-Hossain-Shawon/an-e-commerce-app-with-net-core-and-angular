@@ -1,0 +1,15 @@
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\bin\Debug\net5.0\Core.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\bin\Debug\net5.0\Core.pdb
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

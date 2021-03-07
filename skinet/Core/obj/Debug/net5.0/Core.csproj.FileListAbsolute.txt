@@ -1,0 +1,12 @@
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\bin\Debug\net5.0\Core.deps.json
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\bin\Debug\net5.0\Core.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\bin\Debug\net5.0\ref\Core.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\bin\Debug\net5.0\Core.pdb
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\ref\Core.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.pdb

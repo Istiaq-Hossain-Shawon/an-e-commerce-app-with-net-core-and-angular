@@ -98,3 +98,7 @@ H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\api\
 H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\api\obj\Debug\net5.0\API.genruntimeconfig.cache
 H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\api\bin\Debug\net5.0\Humanizer.dll
 H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\API\bin\Debug\net5.0\Core.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\API\bin\Debug\net5.0\Infrastructure.dll
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\API\bin\Debug\net5.0\Infrastructure.pdb
+H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\API\bin\Debug\net5.0\Core.pdb

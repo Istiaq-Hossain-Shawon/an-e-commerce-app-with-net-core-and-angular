@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\API.csproj": {}
+    "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\API.csproj": {
+    "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\API.csproj",
+        "projectUniqueName": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\API.csproj",
-        "packagesPath": "C:\\Users\\Istiaq Hossain\\.nuget\\packages\\",
-        "outputPath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\api\\obj\\",
+        "projectPath": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\HE372SB\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Istiaq Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HE372SB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -39,9 +41,17 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[5.0.0, )",
@@ -56,6 +66,10 @@
                 "NU1605"
               ]
             },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -64,7 +78,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
@@ -73,7 +87,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -85,31 +100,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\Core.csproj": {
+    "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Istiaq Hossain\\.nuget\\packages\\",
-        "outputPath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\obj\\",
+        "projectPath": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\HE372SB\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Istiaq Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HE372SB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -120,15 +137,16 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -137,34 +155,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Istiaq Hossain\\.nuget\\packages\\",
-        "outputPath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HE372SB\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Istiaq Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HE372SB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\Core.csproj": {
-                "projectPath": "H:\\PERSONAL\\DOT NET CORE\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\Core.csproj"
+              "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Personal\\dot net core\\an-e-commerce-app-with-net-core-and-angular\\skinet\\Core\\Core.csproj"
               }
             }
           }
@@ -176,8 +196,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -194,7 +214,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -203,7 +224,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

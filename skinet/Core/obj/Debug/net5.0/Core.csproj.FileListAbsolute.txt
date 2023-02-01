@@ -10,3 +10,15 @@ H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core
 H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.dll
 H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\ref\Core.dll
 H:\PERSONAL\DOT NET CORE\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.pdb
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\bin\Debug\net5.0\Core.deps.json
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\bin\Debug\net5.0\Core.dll
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\bin\Debug\net5.0\Core.pdb
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.dll
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\refint\Core.dll
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\Core.pdb
+C:\Personal\dot net core\an-e-commerce-app-with-net-core-and-angular\skinet\Core\obj\Debug\net5.0\ref\Core.dll

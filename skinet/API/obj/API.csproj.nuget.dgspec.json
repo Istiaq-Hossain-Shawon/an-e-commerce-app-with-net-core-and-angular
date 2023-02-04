@@ -74,7 +74,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[7.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -201,11 +201,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[7.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[7.0.2, )"
             }
           },
           "imports": [
